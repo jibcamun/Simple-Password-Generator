@@ -24,11 +24,11 @@ A **Simple Password Generator** built with **Python 3.13.2** to instantly genera
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/Simple-Password-Generator.git
+git clone https://github.com/jibcamun/Simple-Password-Generator.git
 cd Simple-Password-Generator
 
 # Run the script
-python password_generator.py
+python main.py
 ```
 
 ---
@@ -45,7 +45,7 @@ The developer assumes **no liability** for any data loss, security breach, or da
 
 ```
 Simple-Password-Generator/
-├── password_generator.py
+├── main.py
 └── README.md
 ```
 
