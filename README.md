@@ -78,4 +78,3 @@ Made with Python and a hint of caffeine by **Jibran**
 ## 📄 License
 
 This project is open-source. Feel free to modify and use it in your own projects.
-```
