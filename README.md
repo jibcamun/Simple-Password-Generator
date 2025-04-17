@@ -1,4 +1,3 @@
-```markdown
 # 🔐 Simple-Password-Generator
 
 A **Simple Password Generator** built with **Python 3.13.2** to instantly generate strong, random passwords — so you never have to suffer the "forgot password" spiral again.
